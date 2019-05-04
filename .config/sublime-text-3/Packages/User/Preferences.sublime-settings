@@ -2,5 +2,9 @@
 	"ignored_packages":
 	[
 		"Vintage"
-	]
+	],
+	"line_numbers": true,
+	"rulers": [79, 120],
+	"spell_check": false,
+	"trim_trailing_white_space_on_save": true,
 }
