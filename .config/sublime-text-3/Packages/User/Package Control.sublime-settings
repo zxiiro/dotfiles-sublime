@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"CloudFormation Validation",
 		"EditorConfig",
 		"Package Control",
 		"sublack"
