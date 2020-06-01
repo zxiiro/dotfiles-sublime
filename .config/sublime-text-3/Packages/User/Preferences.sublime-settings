@@ -4,7 +4,11 @@
 		"Vintage"
 	],
 	"line_numbers": true,
-	"rulers": [79, 120],
+	"rulers":
+	[
+		79,
+		120
+	],
 	"spell_check": false,
-	"trim_trailing_white_space_on_save": true,
+	"trim_trailing_white_space_on_save": true
 }
