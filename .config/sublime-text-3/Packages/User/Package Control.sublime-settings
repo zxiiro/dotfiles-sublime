@@ -9,7 +9,8 @@
 		"EditorConfig",
 		"MarkdownPreview",
 		"Package Control",
+		"rainbow_csv",
 		"RawLineEdit",
-		"sublack"
-	]
+		"sublack",
+	],
 }
