@@ -13,4 +13,7 @@
 	],
 	"spell_check": false,
 	"trim_trailing_white_space_on_save": true,
+	"update_check": true,
+	"index_files": true,
+	"color_scheme": "Mariana.sublime-color-scheme",
 }
