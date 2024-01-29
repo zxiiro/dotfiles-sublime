@@ -7,6 +7,8 @@
 	[
 		"CloudFormation Validation",
 		"EditorConfig",
+		"LSP",
+		"LSP-copilot",
 		"MarkdownPreview",
 		"Package Control",
 		"rainbow_csv",
