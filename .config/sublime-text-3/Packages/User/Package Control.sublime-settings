@@ -7,6 +7,7 @@
 	[
 		"CloudFormation Validation",
 		"EditorConfig",
+		"JSONLint",
 		"LSP",
 		"LSP-copilot",
 		"MarkdownPreview",
