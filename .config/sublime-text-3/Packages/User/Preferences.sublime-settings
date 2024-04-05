@@ -15,5 +15,7 @@
 	"trim_trailing_white_space_on_save": true,
 	"update_check": true,
 	"index_files": true,
-	"color_scheme": "Mariana.sublime-color-scheme",
+	"color_scheme": "auto",
+	"dark_color_scheme": "Mariana.sublime-color-scheme",
+	"light_color_scheme": "Breakers.sublime-color-scheme",
 }
