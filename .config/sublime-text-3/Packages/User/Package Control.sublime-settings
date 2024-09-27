@@ -7,11 +7,13 @@
 	[
 		"CloudFormation Validation",
 		"EditorConfig",
+		"Jinja2",
 		"JSONLint",
 		"MarkdownPreview",
 		"Package Control",
 		"rainbow_csv",
 		"RawLineEdit",
 		"sublack",
+		"Terraform",
 	],
 }
