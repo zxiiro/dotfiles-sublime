@@ -5,15 +5,21 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"CloudFormation Validation",
 		"EditorConfig",
+		"GitGutter",
 		"Jinja2",
 		"JSONLint",
 		"MarkdownPreview",
 		"Package Control",
 		"rainbow_csv",
 		"RawLineEdit",
+		"SideBarEnhancements",
 		"sublack",
+		"SublimeLinter",
+		"SublimeLinter-contrib-yamllint",
+		"SublimeLinter-pycodestyle",
 		"Terraform",
 	],
 }
